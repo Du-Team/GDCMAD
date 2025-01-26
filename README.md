@@ -34,3 +34,5 @@ python main.py <dataset>
 
 where `<dataset>` is one of `SMAP`, `MSL`, `SMD`, `SWAT`, `PSM`, `ASD`
 
+For more related researches, please visit my homepage: https://dumingjing.github.io/. For data and discussion, please message Mingjing Du (杜明晶@江苏师范大学): dumj@jsnu.edu.cn.
+
