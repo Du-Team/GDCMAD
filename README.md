@@ -5,7 +5,7 @@ A Python implementation of the clustering algorithm presented in:
 
    <b><i>Sheng He#, Wenxuan He#, Mingjing Du*, Xiang Jiang, Yongquan Dong*. GDCMAD: Graph-based dual-contrastive representation learning for multivariate time series anomaly detection. <i> Information Sciences</i>, 2026, 728: 122790.</i></b>
 
-The paper is available online at: <a href="https://DuMingjing.github.io/blob/master/files/paper-19_GDCMAD/2026_INS_GDCMAD.pdf" target="_blank">pdf</a>. 
+The paper is available online at: <a href="https://dumingjing.github.io/files/paper-19_GDCMAD/2026_INS_GDCMAD.pdf" target="_blank">pdf</a>. 
 
 If you use this implementation in your work, please add a reference/citation to the paper. You can use the following bibtex entry:
 
